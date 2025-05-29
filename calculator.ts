@@ -19,3 +19,4 @@ const result = calculate(a, b, c)
 
 
 console.log(`${a} ${c} ${b} = ${result}`);
+// не пойми что
