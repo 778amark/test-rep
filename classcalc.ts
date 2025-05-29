@@ -16,3 +16,4 @@ class Calculator {
 }
 const calculator = new Calculator();
     console.log(calculator.add(5,5));
+// класс калькулятор
